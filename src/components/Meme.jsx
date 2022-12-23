@@ -6,8 +6,8 @@ const Meme = (props)=>{
      const [data,setData]=useState(
          {
              id:props.meme.id,
-             username:"DeepakChaturvedi",
-             password:"MemeGenerate",
+             username:"SaruabhChaudhary",
+             password:"memegenerator",
              values:[]
          }
      )
